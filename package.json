@@ -1,0 +1,16 @@
+{
+  "name": "aryveer-portfolio",
+  "version": "1.0.0",
+  "description": "High-end editorial-style portfolio for Aryveer Srivastav",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y lite-server"
+  },
+  "keywords": [
+    "portfolio",
+    "editorial",
+    "ai-engineer"
+  ],
+  "author": "Aryveer Srivastav",
+  "license": "MIT"
+}
