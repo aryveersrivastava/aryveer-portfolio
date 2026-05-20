@@ -18,5 +18,5 @@ This repository contains the source code for my professional portfolio. The arch
 - **Cloud Infrastructure:** AWS Elastic Beanstalk, Webhook Architectures.
 
 ## 🔗 Links
-- **Live Deployment:** [Insert your Vercel/Netlify link here once deployed]
+- **Live Deployment:** https://aryveer-portfolio-beryl.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/aryveer-srivastav
